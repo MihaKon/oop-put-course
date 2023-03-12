@@ -2,3 +2,6 @@ This is new file, for lesson 00.
 Created from CMD.
 
 MK :)
+
+
+This changes are commited into NewBrnach branch. '|'
