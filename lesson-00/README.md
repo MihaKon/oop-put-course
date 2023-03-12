@@ -3,7 +3,7 @@ Tasks:
 * Task 1 - Make a open source contribution.
 * Task 2 - Make, a 'git push' from CMD. 
 
-Task 1 - Make a open source contribution.
+<h2>Task 1 - Make a open source contribution.</h2>
 
 used this link: https://github.com/firstcontributions/first-contributions/blob/main/README.md
 results can be viewed here: https://github.com/firstcontributions/first-contributions/blob/main/Contributors.md  [Michaｳ Konon]
