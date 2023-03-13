@@ -3,6 +3,7 @@ Tasks:
 * Task 1 - Make a open source contribution.
 * Task 2 - Make, a 'git push' from CMD. 
 * Task 3 - Create new branch.
+* Task 4 - gh commands
 
 <h3>Task 1 - Make a open source contribution.</h3>
 used this link: https://github.com/firstcontributions/first-contributions/blob/main/README.md
