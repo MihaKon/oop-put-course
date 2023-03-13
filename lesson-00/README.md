@@ -6,7 +6,7 @@ Tasks:
 
 <h3>Task 1 - Make a open source contribution.</h3>
 used this link: https://github.com/firstcontributions/first-contributions/blob/main/README.md
-results can be viewed here: https://github.com/firstcontributions/first-contributions/blob/main/Contributors.md  [Michaｳ Konon]
+results can be viewed here: https://github.com/firstcontributions/first-contributions/blob/main/Contributors.md  [Micha Konon]
 
 <h3>Task 2 - Make, a 'git push' from CMD.</h3>
 After installation, I created folder and cloned oop-put-course repo into it. After that, I created NewFile.txt which I added, commited and pushed from my cmd.
